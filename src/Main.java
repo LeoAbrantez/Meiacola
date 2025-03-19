@@ -19,10 +19,10 @@ TESTE DE MESA
 
 | Latinha (350ml) | Garrafinha (600ml) | Garrafão (2L) | Total ((latinha * 350) + (garrafinha * 600) + (garrafao * 2000)) | Litros (total / 1000) | Saída |
 |---------------|--------------------|--------------|-------------------------------------------------|----------------|------------------------------------------------------------|
-| 10            | 5                  | 2            | (10 * 350) + (5 * 600) + (2 * 2000) = 10500     | 10.5           | "O comerciante comprou 7.35 litros de refrigerante."       |
-| 4             | 3                  | 1            | (4 * 350) + (3 * 600) + (1 * 2000) = 5200       | 5.2            | "O comerciante comprou 4.05 litros de refrigerante."       |
-| 20            | 10                 | 5            | (20 * 350) + (10 * 600) + (5 * 2000) = 23000    | 23.00          | "O comerciante comprou 17.00 litros de refrigerante."      |
-| 0             | 0                  | 3            | (0 * 350) + (0 * 600) + (3 * 2000) = 6000       | 6.00           | "O comerciante comprou 6.00 litros de refrigerante."       |
+| 10            | 5                  | 2            | (10 * 350) + (5 * 600) + (2 * 2000) = 10500     | 10.5           | "O comerciante comprou 10.5 litros de refrigerante."       |
+| 4             | 3                  | 1            | (4 * 350) + (3 * 600) + (1 * 2000) = 5200       | 5.2            | "O comerciante comprou 5.2 litros de refrigerante."        |
+| 20            | 10                 | 5            | (20 * 350) + (10 * 600) + (5 * 2000) = 23000    | 23.00          | "O comerciante comprou 23.00 litros de refrigerante."      |
+| 0             | 0                  | 3            | (0 * 350) + (0 * 600) + (3 * 2000) = 6000       | 6.00           | "O comerciante comprou 6.00  litros de refrigerante."      |
  */
 
 import javax.swing.JOptionPane;
